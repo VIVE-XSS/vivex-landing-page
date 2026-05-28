@@ -455,7 +455,7 @@ export default function App() {
             }`}>
               <span className={`font-semibold uppercase block mb-1 ${
                 isDarkMode ? 'text-slate-400' : 'text-slate-700'
-              }`}>VIVE-X España — Sistemas de Facturación Digital</span> 
+              }`}>VIVE-X Sistemas y Servicios</span> 
               Cumple el Reglamento de Facturación de España (Real Decreto 1007/2023) • Sello Oficial Verifactu garantizado por diseño • Formato estructurado FacturaE.
             </div>
           </div>
