@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.firebase/
+.idea/
+*.local
+firebase-debug.log
+assets/.aistudio/

@@ -1,0 +1,6 @@
+{
+  "name": "VIVE-X Landing Page",
+  "description": "Landing page interactiva y optimizada para móviles de VIVE-X, la solución de facturación electrónica sin ataduras para España.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
